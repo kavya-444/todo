@@ -1,7 +1,7 @@
 # Simple To-Do List Application
 
 def display_menu():
-    print("\nTo-Do List Application")
+    print("\n Welcome to--> To-Do List Application")
     print("1. View To-Do List")
     print("2. Add Task")
     print("3. Remove Task")
